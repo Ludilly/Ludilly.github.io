@@ -80,9 +80,26 @@ b {}
     border-radius: 100%;
     width: 15%;
 }
+ .alinhaImagem{
+    text-align: center;
 
+ }
 .skills{
-    display:inline-block;
     max-width: 45%;
+       display: inline-block;
+    margin-left: 300px;
+}
+.Projects {
+    max-width: 45%;
+    display: inline-block;
+    margin-left: 200px;
+
+
+}
+.sobre{
+    text-align: center;
+}
+.titulo2{
+    text-align: center;
 
 }
